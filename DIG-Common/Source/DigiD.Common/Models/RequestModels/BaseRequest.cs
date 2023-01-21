@@ -1,4 +1,4 @@
-﻿using DigiD.Common.SessionModels;
+using DigiD.Common.SessionModels;
 using Newtonsoft.Json;
 
 namespace DigiD.Common.Models.RequestModels

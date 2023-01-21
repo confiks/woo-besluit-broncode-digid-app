@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.EID.Constants
+namespace DigiD.Common.EID.Constants
 {
     public static class WidConstants
     {

@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Models.RequestModels
+namespace DigiD.Common.Models.RequestModels
 {
     public class MessageCenterRequest : BaseMijnDigiDRequest
     {

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using DigiD.Common.EID.BaseClasses;
 using DigiD.Common.EID.CardSteps;

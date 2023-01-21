@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Constants;
+using DigiD.Common.Constants;
 using DigiD.Common.Helpers;
 using DigiD.Common.Interfaces;
 using DigiD.Common.Services;

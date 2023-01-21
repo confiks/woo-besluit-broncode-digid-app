@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using DigiD.Common.EID.Models;
 using DigiD.Common.NFC.Enums;
 using DigiD.Common.NFC.Models;

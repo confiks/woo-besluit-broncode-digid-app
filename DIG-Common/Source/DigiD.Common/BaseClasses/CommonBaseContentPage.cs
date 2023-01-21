@@ -1,4 +1,4 @@
-﻿using Xamarin.Forms;
+using Xamarin.Forms;
 using Xamarin.Essentials;
 
 namespace DigiD.Common.BaseClasses

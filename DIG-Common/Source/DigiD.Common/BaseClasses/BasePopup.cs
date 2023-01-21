@@ -1,4 +1,4 @@
-﻿using Xamarin.CommunityToolkit.UI.Views;
+using Xamarin.CommunityToolkit.UI.Views;
 
 namespace DigiD.Common.BaseClasses
 {

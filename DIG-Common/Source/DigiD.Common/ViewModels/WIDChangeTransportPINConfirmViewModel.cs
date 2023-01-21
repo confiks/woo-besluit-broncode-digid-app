@@ -1,4 +1,4 @@
-﻿using DigiD.Common.BaseClasses;
+using DigiD.Common.BaseClasses;
 using DigiD.Common.Models;
 using System;
 using Xamarin.Forms;

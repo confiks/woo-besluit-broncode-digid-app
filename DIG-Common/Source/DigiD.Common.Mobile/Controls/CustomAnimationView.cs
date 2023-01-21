@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Runtime.CompilerServices;
 using DigiD.Common.Services;
 using Lottie.Forms;

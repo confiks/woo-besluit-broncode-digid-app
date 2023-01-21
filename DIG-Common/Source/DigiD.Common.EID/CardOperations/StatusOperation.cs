@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.EID.BaseClasses;
 using DigiD.Common.EID.CardSteps;
 using DigiD.Common.EID.Enums;

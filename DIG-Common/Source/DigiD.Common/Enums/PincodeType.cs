@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Enums
+namespace DigiD.Common.Enums
 {
     public enum PincodeType
     {

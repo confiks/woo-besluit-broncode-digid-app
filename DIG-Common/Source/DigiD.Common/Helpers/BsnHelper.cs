@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Helpers
+namespace DigiD.Common.Helpers
 {
     public static class BsnHelper
     {

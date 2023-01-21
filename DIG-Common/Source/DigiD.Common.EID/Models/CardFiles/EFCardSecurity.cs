@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Helpers;
+using DigiD.Common.EID.Helpers;
 using Org.BouncyCastle.Asn1;
 
 namespace DigiD.Common.EID.Models.CardFiles

@@ -1,4 +1,4 @@
-﻿using DigiD.Common.BaseClasses;
+using DigiD.Common.BaseClasses;
 using DigiD.Common.Constants;
 using DigiD.Common.Enums;
 using DigiD.Common.Interfaces;

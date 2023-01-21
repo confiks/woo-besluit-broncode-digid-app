@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.EID.Enums
+namespace DigiD.Common.EID.Enums
 {
     public enum GAPType
     {

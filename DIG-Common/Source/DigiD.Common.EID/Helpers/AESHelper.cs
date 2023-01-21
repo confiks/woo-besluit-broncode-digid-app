@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using DigiD.Common.NFC.Helpers;
 using Org.BouncyCastle.Crypto.Engines;

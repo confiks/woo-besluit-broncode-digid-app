@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.NFC.Exceptions;
 
 namespace DigiD.Common.NFC.Models

@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.EID.Models.CardFiles
+namespace DigiD.Common.EID.Models.CardFiles
 {
     public class DG11 : File
     {

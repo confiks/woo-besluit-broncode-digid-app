@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Settings
+namespace DigiD.Common.Settings
 {
     public interface IDesktopSettings
     {

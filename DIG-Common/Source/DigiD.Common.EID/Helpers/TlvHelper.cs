@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using BerTlv;
 
 namespace DigiD.Common.EID.Helpers

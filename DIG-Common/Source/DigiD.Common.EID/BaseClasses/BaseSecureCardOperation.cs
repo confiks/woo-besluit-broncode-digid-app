@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Diagnostics;
 using DigiD.Common.EID.CardSteps;
 using DigiD.Common.EID.Interfaces;

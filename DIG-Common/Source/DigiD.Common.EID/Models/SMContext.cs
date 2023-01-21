@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using Org.BouncyCastle.Math;
 
 namespace DigiD.Common.EID.Models

@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.EID.Cards;
 using DigiD.Common.EID.Enums;
 using DigiD.Common.EID.Exceptions;

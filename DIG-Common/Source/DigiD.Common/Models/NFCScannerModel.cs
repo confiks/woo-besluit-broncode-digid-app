@@ -1,4 +1,4 @@
-﻿using System.Security;
+using System.Security;
 using DigiD.Common.EID.Models;
 using DigiD.Common.Enums;
 using DigiD.Common.Models.ResponseModels;

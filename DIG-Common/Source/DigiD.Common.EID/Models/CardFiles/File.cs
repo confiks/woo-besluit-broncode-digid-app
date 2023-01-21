@@ -1,4 +1,4 @@
-﻿using DigiD.Common.NFC.Helpers;
+using DigiD.Common.NFC.Helpers;
 
 namespace DigiD.Common.EID.Models.CardFiles
 {

@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Constants;
+using DigiD.Common.Constants;
 using DigiD.Common.Controls;
 using DigiD.Common.Mobile.Helpers;
 using Xamarin.Essentials;

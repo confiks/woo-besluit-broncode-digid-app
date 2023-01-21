@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Services.Piwik
+namespace DigiD.Common.Services.Piwik
 {
     /// <summary>
     /// Device information used by PIWIK.

@@ -1,4 +1,4 @@
-﻿using System.Security;
+using System.Security;
 using System.Threading.Tasks;
 using DigiD.Common.EID.BaseClasses;
 using DigiD.Common.EID.Helpers;

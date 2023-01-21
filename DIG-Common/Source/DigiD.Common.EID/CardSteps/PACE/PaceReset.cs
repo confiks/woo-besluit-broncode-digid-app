@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Enums;
+using DigiD.Common.EID.Enums;
 using DigiD.Common.EID.Interfaces;
 using DigiD.Common.EID.Models;
 

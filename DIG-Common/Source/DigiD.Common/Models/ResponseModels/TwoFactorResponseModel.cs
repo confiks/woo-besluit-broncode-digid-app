@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Http.Enums;
+using DigiD.Common.Http.Enums;
 using DigiD.Common.Http.Models;
 using Newtonsoft.Json;
 

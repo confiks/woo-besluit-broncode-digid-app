@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.RDA.Enums
+namespace DigiD.Common.RDA.Enums
 {
     public enum RdaStatus
     {

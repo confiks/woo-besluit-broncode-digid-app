@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Security;
 using DigiD.Common.EID.Enums;
 using DigiD.Common.EID.Helpers;

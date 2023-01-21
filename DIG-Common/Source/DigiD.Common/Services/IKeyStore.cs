@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Services
+namespace DigiD.Common.Services
 {
     public interface IKeyStore
     {

@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Constants;
+using DigiD.Common.Constants;
 using System.Linq;
 using Xamarin.Forms;
 

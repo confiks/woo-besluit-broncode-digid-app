@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Models.ResponseModels;
 
 namespace DigiD.Common.SessionModels

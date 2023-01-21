@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.CardSteps;
+using DigiD.Common.EID.CardSteps;
 using DigiD.Common.EID.Models;
 using Org.BouncyCastle.Crypto.Parameters;
 

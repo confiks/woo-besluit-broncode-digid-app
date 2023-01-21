@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using DigiD.Common.Http.Models;
 
 namespace DigiD.Common.Models.ResponseModels

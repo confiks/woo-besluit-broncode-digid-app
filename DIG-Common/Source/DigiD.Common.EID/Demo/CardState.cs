@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Constants;
+using DigiD.Common.EID.Constants;
 
 namespace DigiD.Common.EID.Demo
 {

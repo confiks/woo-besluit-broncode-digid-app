@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.Http.Enums;
 using DigiD.Common.Interfaces;
 using DigiD.Common.Models.ResponseModels;

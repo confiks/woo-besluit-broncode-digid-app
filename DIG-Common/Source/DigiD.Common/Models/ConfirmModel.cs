@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Models.ResponseModels;
+using DigiD.Common.Models.ResponseModels;
 
 namespace DigiD.Common.Models
 {

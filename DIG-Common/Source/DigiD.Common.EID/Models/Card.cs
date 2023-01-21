@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using System.Threading.Tasks;
 using DigiD.Common.EID.Cards;
 using DigiD.Common.EID.Models.CardFiles;

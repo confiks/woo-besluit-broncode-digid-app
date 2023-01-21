@@ -1,4 +1,4 @@
-﻿using DigiD.Common.SessionModels;
+using DigiD.Common.SessionModels;
 using DigiD.Common.Settings;
 using Newtonsoft.Json;
 using Xamarin.Forms;

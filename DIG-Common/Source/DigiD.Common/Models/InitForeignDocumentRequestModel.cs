@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Models.RequestModels;
+using DigiD.Common.Models.RequestModels;
 using Newtonsoft.Json;
 
 namespace DigiD.Common.Models

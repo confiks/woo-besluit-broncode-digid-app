@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 using DigiD.Common.Mobile.BaseClasses;
 using Xamarin.CommunityToolkit.ObjectModel;

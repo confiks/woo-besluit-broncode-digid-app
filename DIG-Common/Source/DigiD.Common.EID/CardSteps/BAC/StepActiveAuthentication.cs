@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.BaseClasses;
+using DigiD.Common.EID.BaseClasses;
 using DigiD.Common.EID.Interfaces;
 
 namespace DigiD.Common.EID.CardSteps.BAC

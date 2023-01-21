@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows.Input;
 using DigiD.Common.BaseClasses;
 using DigiD.Common.Mobile.Helpers;

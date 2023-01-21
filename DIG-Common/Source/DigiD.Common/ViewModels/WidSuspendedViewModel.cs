@@ -1,4 +1,4 @@
-﻿using DigiD.Common.BaseClasses;
+using DigiD.Common.BaseClasses;
 using DigiD.Common.Models;
 using DigiD.Common.NFC.Enums;
 using Xamarin.CommunityToolkit.ObjectModel;

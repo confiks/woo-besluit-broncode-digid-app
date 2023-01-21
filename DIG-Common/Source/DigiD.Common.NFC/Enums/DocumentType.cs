@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.NFC.Enums
+namespace DigiD.Common.NFC.Enums
 {
     public enum DocumentType
     {

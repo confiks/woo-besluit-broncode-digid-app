@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Helpers;
+using DigiD.Common.Helpers;
 using Xamarin.Forms;
 
 namespace DigiD.Common.Controls

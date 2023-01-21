@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using BerTlv;
 using DigiD.Common.EID.Helpers;
 

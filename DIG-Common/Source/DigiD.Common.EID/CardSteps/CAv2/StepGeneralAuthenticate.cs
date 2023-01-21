@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using System.Threading.Tasks;
 using BerTlv;
 using DigiD.Common.EID.BaseClasses;

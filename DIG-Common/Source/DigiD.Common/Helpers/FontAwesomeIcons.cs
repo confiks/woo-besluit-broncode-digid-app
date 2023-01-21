@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Helpers
+namespace DigiD.Common.Helpers
 {
     /// <summary>
     /// The unicode values for all FontAwesome icons.

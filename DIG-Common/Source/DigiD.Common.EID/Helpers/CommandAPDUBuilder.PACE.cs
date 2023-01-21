@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Linq;
 using DigiD.Common.EID.Enums;
 using DigiD.Common.EID.Models;

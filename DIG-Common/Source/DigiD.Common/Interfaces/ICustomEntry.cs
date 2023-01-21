@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Interfaces
+namespace DigiD.Common.Interfaces
 {
     public interface ICustomEntry
     {

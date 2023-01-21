@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Mobile.Helpers;
 using Xamarin.Forms;
 using Xamarin.Forms.Xaml;

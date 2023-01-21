@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Enums;
 
 namespace DigiD.Common.Mobile.Helpers

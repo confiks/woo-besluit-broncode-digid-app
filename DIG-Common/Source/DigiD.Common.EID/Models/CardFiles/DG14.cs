@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Helpers;
+using DigiD.Common.EID.Helpers;
 using DigiD.Common.EID.Models.SecurityInfoObjects;
 using Org.BouncyCastle.Asn1;
 

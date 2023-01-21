@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Enums;
 using DigiD.Common.Services;
 using Xamarin.Forms;

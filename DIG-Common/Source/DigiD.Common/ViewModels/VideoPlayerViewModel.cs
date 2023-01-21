@@ -1,4 +1,4 @@
-﻿using DigiD.Common.BaseClasses;
+using DigiD.Common.BaseClasses;
 using DigiD.Common.Services;
 using Xamarin.CommunityToolkit.Core;
 using Xamarin.CommunityToolkit.ObjectModel;

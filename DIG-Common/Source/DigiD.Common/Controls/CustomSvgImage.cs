@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Helpers;
+using DigiD.Common.Helpers;
 using FFImageLoading.Svg.Forms;
 using Xamarin.Forms;
 

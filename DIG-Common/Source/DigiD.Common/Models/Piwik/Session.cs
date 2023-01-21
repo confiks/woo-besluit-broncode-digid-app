@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Interfaces;
 using Xamarin.Forms;
 

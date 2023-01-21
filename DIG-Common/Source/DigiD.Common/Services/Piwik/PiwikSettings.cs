@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.BaseClasses;
 using DigiD.Common.Interfaces;
 using DigiD.Common.Services.Piwik;

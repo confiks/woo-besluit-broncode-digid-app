@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Models
+namespace DigiD.Common.Models
 {
     public class PincodeValidationResult
     {

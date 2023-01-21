@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Security;
 using System.Threading.Tasks;
 using DigiD.Common.EID.Enums;

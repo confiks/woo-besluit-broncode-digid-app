@@ -1,4 +1,4 @@
-﻿using System.Collections.Generic;
+using System.Collections.Generic;
 using DigiD.Common.Enums;
 using DigiD.Common.Http.Models;
 using DigiD.Common.SessionModels;

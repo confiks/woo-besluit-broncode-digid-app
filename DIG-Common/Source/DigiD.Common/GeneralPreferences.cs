@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common;
 using DigiD.Common.Helpers;
 using DigiD.Common.Services;

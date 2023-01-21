@@ -1,4 +1,4 @@
-﻿using DigiD.Common.BaseClasses;
+using DigiD.Common.BaseClasses;
 
 namespace DigiD.Common.Mobile.BaseClasses
 {

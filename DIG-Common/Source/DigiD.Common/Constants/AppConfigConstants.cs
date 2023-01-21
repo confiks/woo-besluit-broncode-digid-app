@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using DigiD.Common.Enums;
 using DigiD.Common.Models;

@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Enums;
+using DigiD.Common.EID.Enums;
 
 namespace DigiD.Common.EID.CardSteps.Randomize
 {

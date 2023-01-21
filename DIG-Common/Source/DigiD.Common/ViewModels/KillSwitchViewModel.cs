@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Globalization;
 using DigiD.Common.BaseClasses;
 using DigiD.Common.Http.Enums;

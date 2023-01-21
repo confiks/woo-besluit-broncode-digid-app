@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Http.Models;
+using DigiD.Common.Http.Models;
 using Newtonsoft.Json;
 
 namespace DigiD.Common.EID.Models.Network.Responses

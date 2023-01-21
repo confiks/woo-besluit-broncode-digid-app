@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Constants
+namespace DigiD.Common.Constants
 {
     public static class StorageConstants
 	{

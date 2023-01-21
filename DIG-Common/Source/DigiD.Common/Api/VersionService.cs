@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.Helpers;
 using DigiD.Common.Interfaces;
 using DigiD.Common.Models.ResponseModels;

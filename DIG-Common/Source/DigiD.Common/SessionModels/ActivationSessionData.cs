@@ -1,4 +1,4 @@
-﻿using System.Security;
+using System.Security;
 using DigiD.Common.Enums;
 
 namespace DigiD.Common.SessionModels

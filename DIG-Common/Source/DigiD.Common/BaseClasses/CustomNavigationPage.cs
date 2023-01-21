@@ -1,4 +1,4 @@
-﻿using Xamarin.Forms.PlatformConfiguration;
+using Xamarin.Forms.PlatformConfiguration;
 using Xamarin.Forms.PlatformConfiguration.iOSSpecific;
 
 namespace DigiD.Common.BaseClasses

@@ -1,4 +1,4 @@
-﻿using System.Security;
+using System.Security;
 using DigiD.Common.EID.BaseClasses;
 using DigiD.Common.EID.CardSteps.FileOperations;
 using DigiD.Common.EID.Interfaces;

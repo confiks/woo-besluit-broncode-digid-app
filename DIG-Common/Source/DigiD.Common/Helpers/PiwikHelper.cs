@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.Constants;
 using DigiD.Common.Services.Piwik;
 using DigiD.Common.Settings;

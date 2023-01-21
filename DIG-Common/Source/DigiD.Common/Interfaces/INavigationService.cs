@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.BaseClasses;
 using DigiD.Common.Enums;
 using DigiD.Common.Models;

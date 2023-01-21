@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.EID.Interfaces;
 using DigiD.Common.EID.Models;
 using DigiD.Common.EID.Models.SecurityInfoObjects;

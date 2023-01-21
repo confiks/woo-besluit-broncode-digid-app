@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.EID.Interfaces;
 using DigiD.Common.EID.Models;
 using DigiD.Common.NFC.Enums;

@@ -1,4 +1,4 @@
-﻿using DigiD.Common.Helpers;
+using DigiD.Common.Helpers;
 using DigiD.Common.Mobile.BaseClasses;
 using DigiD.Common.Mobile.Helpers;
 using DigiD.Common.RDA.ViewModels;

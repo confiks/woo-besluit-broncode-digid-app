@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using DigiD.Common.Constants;
 
 namespace DigiD.Common.Models

@@ -1,4 +1,4 @@
-﻿using System.Threading.Tasks;
+using System.Threading.Tasks;
 using DigiD.Common.Controls;
 using DigiD.Common.Services;
 using Xamarin.CommunityToolkit.Extensions;

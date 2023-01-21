@@ -1,4 +1,4 @@
-﻿using DigiD.Common.EID.Models.CardFiles;
+using DigiD.Common.EID.Models.CardFiles;
 
 namespace DigiD.Common.Interfaces
 {

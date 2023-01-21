@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Http.Enums
+namespace DigiD.Common.Http.Enums
 {
 	public enum ApiResult
 	{

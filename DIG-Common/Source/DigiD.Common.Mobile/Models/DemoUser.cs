@@ -1,4 +1,4 @@
-﻿namespace DigiD.Common.Mobile.Models
+namespace DigiD.Common.Mobile.Models
 {
     public class DemoUser
     {

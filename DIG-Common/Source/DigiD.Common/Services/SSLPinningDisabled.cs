@@ -1,4 +1,4 @@
-﻿#if SSL_UNPINNING
+#if SSL_UNPINNING
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 

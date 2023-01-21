@@ -1,4 +1,4 @@
-﻿using System.Linq;
+using System.Linq;
 using DigiD.Common.EID.Helpers;
 using Org.BouncyCastle.Asn1;
 

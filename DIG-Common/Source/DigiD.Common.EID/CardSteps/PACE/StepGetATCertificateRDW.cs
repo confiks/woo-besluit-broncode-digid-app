@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Threading.Tasks;
 using DigiD.Common.EID.Cards;
 using DigiD.Common.EID.Constants;

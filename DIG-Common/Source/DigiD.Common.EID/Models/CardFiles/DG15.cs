@@ -1,4 +1,4 @@
-﻿using BerTlv;
+using BerTlv;
 
 namespace DigiD.Common.EID.Models.CardFiles
 {
